@@ -94,7 +94,7 @@ I'm Jianheng (Martin) Wei, an aspiring **Analytics Engineer** based in Melbourne
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MartinW4731/MartinW4731/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/output/github-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/MartinW4731/MartinW4731/output/github-snake.svg">
 </picture>
