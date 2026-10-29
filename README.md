@@ -2,6 +2,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Martin%20Wei&fontSize=68&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NOW-MASTER%20OF%20DATA%20SCIENCE%20%40%20MONASH-52A25A?style=for-the-badge&labelColor=555555" alt="Now" />
+  <img src="https://img.shields.io/badge/BASED%20IN-MELBOURNE%2C%20AU-3B6FE3?style=for-the-badge&labelColor=555555" alt="Based in Melbourne" />
+  <img src="https://komarev.com/ghpvc/?username=MartinW4731&label=PROFILE%20VIEWS&color=789DE8&style=for-the-badge&labelColor=555555" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jianheng-wei-martin-5169902b6"><img src="https://img.shields.io/badge/LINKEDIN-2D64BC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MartinW4731"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
 # Hey 👋 What's up?
 
 I'm Jianheng (Martin) Wei, an aspiring **Analytics Engineer** based in Melbourne, Australia. I'm finishing a Master of Data Science at Monash University (Nov 2026) and also hold a Bachelor of Commerce (Accounting & Finance) from UQ.
