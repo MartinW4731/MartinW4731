@@ -81,6 +81,10 @@ I'm Jianheng (Martin) Wei, an aspiring **Analytics Engineer** based in Melbourne
   <img src="https://img.shields.io/badge/NetworkX-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NetworkX" />
 </p>
 
+## 📫 Connect with me
+
+<a href="https://www.linkedin.com/in/jianheng-wei-martin-5169902b6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MartinW4731/MartinW4731/pacman-output/pacman-contribution-graph.svg?game=pacman">
